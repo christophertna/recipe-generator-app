@@ -41,7 +41,7 @@ function App() {
           params: {
             ingredients: ingredients, // User-provided ingredients
             number: 5, // Fetch up to 5 recipes
-            apiKey: "94964e6af3884f33854361efb4c2c29f", // Replace with your Spoonacular API key
+            apiKey: "YOUR_API_KEY", // Replace with your Spoonacular API key
           },
         }
       );
@@ -57,7 +57,7 @@ function App() {
               `https://api.spoonacular.com/recipes/${recipe.id}/information`,
               {
                 params: {
-                  apiKey: "94964e6af3884f33854361efb4c2c29f", // Replace with your Spoonacular API key
+                  apiKey: "YOUR_API_KEY", // Replace with your Spoonacular API key
                 },
               }
             );
