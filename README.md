@@ -29,7 +29,7 @@ This project uses the <i>Spoonacular</i> API. To obtain your own API key:
 
 1. Sign up for a free API key at <i>Spoonacular</i> (free plan includes 150 daily quota points worth of requests).
 
-2. Replace the apiKey value in <i>App.js</i> with your own key (2 areas).
+2. Replace the "apiKey" value in <i>App.js</i> with your own key value (located in 2 areas).
 
 
 ## Screenshots
