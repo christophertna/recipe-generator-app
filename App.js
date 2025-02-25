@@ -117,7 +117,7 @@ function App() {
         `https://api.spoonacular.com/recipes/${recipeId}/information`,
         {
           params: {
-            apiKey: "94964e6af3884f33854361efb4c2c29f", // Replace with your Spoonacular API key
+            apiKey: "YOUR_API_KEY", // Replace with your Spoonacular API key
           },
         }
       );
