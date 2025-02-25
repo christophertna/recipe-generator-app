@@ -20,12 +20,12 @@ Welcome to the **Leftover Recipe Generator**! This web application helps you tur
 ## Technologies Used
 
 - **Frontend**: React.js
-- **API**: [Spoonacular API](https://spoonacular.com/food-api) for recipe data
+- **API**: [<i>Spoonacular API</i>](https://spoonacular.com/food-api) for recipe data
 - **Styling**: CSS
 
 ## API Key
 
-This project uses the <i>Spoonacular</i> API. To use your own API key:
+This project uses the <i>Spoonacular</i> API. To obtain your own API key:
 
 1. Sign up for a free API key at <i>Spoonacular</i> (free plan includes 150 daily quota points worth of requests).
 
