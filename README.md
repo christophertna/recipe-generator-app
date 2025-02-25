@@ -5,10 +5,10 @@ Welcome to the **Leftover Recipe Generator**! This web application helps you tur
 ## Features
 
 - **Ingredient Input**: Enter your leftover ingredients you have on hand.
-- **Cooking Skill Level**: Select your skill level (<i>Beginner</i>, <i>Intermediate</i> or <i>Expert</i>).
+- **Cooking Skill Level**: Select your own personal cooking skill level (<i>Beginner</i>, <i>Intermediate</i> or <i>Expert</i>).
 - **Recipe Suggestions**: Get up to 5 recipe suggestions based on your ingredients and cooking skill level.
 - **Recipe Details**: View step-by-step instructions, missing ingredients, matching ingredients, and the number of needed steps for each recipe.
-- **Dynamic Filtering**: Recipes are sorted by the most matching ingredients
+- **Dynamic Filtering**: Recipes are sorted by the most matching ingredients.
 
 ## How It Works
 
