@@ -4,10 +4,10 @@ Welcome to the **Leftover Recipe Generator**! This web application helps you tur
 
 ## Features
 
-- **Ingredient Input**: Enter the ingredients you have on hand.
-- **Cooking Skill Level**: Select your skill level (beginner, intermediate, or expert).
+- **Ingredient Input**: Enter your leftover ingredients you have on hand.
+- **Cooking Skill Level**: Select your skill level (<i>Beginner</i>, <i>Intermediate</i> or <i>Expert</i>).
 - **Recipe Suggestions**: Get up to 5 recipe suggestions based on your ingredients and cooking skill level.
-- **Recipe Details**: View step-by-step instructions, missing ingredients, matching ingredients, and the number of required steps for each recipe.
+- **Recipe Details**: View step-by-step instructions, missing ingredients, matching ingredients, and the number of needed steps for each recipe.
 - **Dynamic Filtering**: Recipes are sorted by the most matching ingredients and the least steps.
 
 ## How It Works
@@ -25,10 +25,16 @@ Welcome to the **Leftover Recipe Generator**! This web application helps you tur
 
 ## API Key
 
-This project uses the Spoonacular API. To use your own API key:
+This project uses the <i>Spoonacular</i> API. To use your own API key:
 
-1. Sign up for a free API key at Spoonacular (free plan includes 150 daily quota points worth of requests).
+1. Sign up for a free API key at <i>Spoonacular</i> (free plan includes 150 daily quota points worth of requests).
 
-2. Replace the apiKey value in App.js with your own key (2 areas).
+2. Replace the apiKey value in <i>App.js</i> with your own key (2 areas).
+
+
+## Screenshots
+
+![example_using_recipe_app](https://github.com/user-attachments/assets/6458f2b8-c02a-4e75-be4f-8dcefacc64cf)
+
 
    
