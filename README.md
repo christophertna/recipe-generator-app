@@ -37,5 +37,5 @@ This project uses the <i>Spoonacular</i> API. To obtain your own API key:
 ![example_using_recipe_app](https://github.com/user-attachments/assets/70d024c6-8504-49a2-ac61-1f58120e50f5)
 
 
-
+- Note: The application is NOT 100% complete yet.
    
